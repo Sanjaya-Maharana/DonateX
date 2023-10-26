@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+pymongo
+flask_pymongo
+bcrypt
+pymongo[srv]
+requests
+Flask-SQLAlchemy
+Flask-Bcrypt
+razorpay
